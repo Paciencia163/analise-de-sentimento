@@ -1,0 +1,3 @@
+pip install streamlit textblob
+pip install streamlit transformers torch
+
